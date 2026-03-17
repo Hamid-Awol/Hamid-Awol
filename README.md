@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid-awol&label=Profile%20views&color=0e75b6&style=flat" alt="hamid-awol" /> </p>
 
-🔭 I’m currently studying at Computer Science [Arsi University](https://github.com/Hamid-Awol)
+🔭 I’m currently studying Computer Science at [Arsi University](https://github.com/Hamid-Awol)
 
 🌱 I’m currently learning **Back end web development**
 
