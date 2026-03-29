@@ -41,9 +41,4 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamid-awol&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamid-awol&show_icons=true&locale=en" alt="github-stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-awol&" alt="github-streak" /></p>
